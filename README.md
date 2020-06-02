@@ -1,2 +1,2 @@
 # Fireflies-
-Fireflies light the sky
+ light the sky
